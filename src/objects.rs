@@ -14120,6 +14120,7 @@ pub enum ObjectId {
     PollBooth26810 = 26810,
     PollBooth26811 = 26811,
     PollBooth26812 = 26812,
+    PollBooth26815 = 26815,
     Hutch26822 = 26822,
     Cages26823 = 26823,
     Cage26824 = 26824,
